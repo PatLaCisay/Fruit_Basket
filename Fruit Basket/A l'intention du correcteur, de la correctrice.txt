@@ -1,0 +1,15 @@
+Bienvenue dans nos fichiers !
+
+Vous pouvez trouver ici nos deux scripts, main et fonctions et l'ensemble des 
+fichiers exploités par le jeu dans "fichier source".
+
+Fichier source contient notamment le fichier sauvegarde du meilleur score 
+et les images utilisées.
+
+Vous pouvez modifier le meilleur score pour vos tests sans soucis, nous vous 
+demandons simplement de ne pas ajouter d'espace ou de caractère autre que des 
+nombres.
+
+Merci d'avoir lu,
+
+Bon courage pour la suite ! :)
